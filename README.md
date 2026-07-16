@@ -35,5 +35,5 @@ scripts/           — Utility Python
 ## Prerequisiti
 
 - Python 3.10+
-- Conto Neo4j AuraDB gratuito (console.neo4j.io)
+- Account Neo4j AuraDB gratuito (console.neo4j.io)
 - Git
