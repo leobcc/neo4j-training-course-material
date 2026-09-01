@@ -1,5 +1,7 @@
-.venv/
+.neo4j/
 .env
 __pycache__/
 *.pyc
 .DS_Store
+
+.databricks
